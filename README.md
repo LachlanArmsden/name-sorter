@@ -3,7 +3,9 @@
 ## Summary of Project
 This is a C# project that reads a text file and sorts the names in a alphabetical manner acording to their last name, then finally outputting a new text file called "sorted-names-list.txt" with the sorted names.
 I have coded to the best of my ability to provide high-quality code that is efficient, readable, as well as adhering to each of the SOLID principles.
-This project successfully adheres to each of the assessment criteria that was defined, however the optional criteria of providing a build pipeline was not attempted. This was due to my lack of knowledge in this area as well as focusing on the main criteria primarily.
+This project successfully adheres to each of the assessment criteria that was defined, however the optional criteria of providing a build pipeline was not attempted. 
+This was due to my current lack of knowledge of creating a build pipeline like Travis or AppVeyor in this area. I have focused on the main criteria primarily, to demonstrate my coding abilties.
+
 Mutiple Unit Tests were created for each of the functions, where they can be found in the Tests folder in the project.
 
 The project contains 4 classes that handle the functionality of the project:
