@@ -20,7 +20,7 @@ namespace name_sorter
 
             } catch (Exception e)
             {
-                Console.WriteLine("Could not find 'unsorted-names-list.txt' file.");
+                Console.WriteLine("Could not find " + filename);
                 return Array.Empty<string>();
             }
         }
