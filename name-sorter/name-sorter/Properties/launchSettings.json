@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dye&durham_codingAssessment": {
+      "commandName": "Project",
+      "commandLineArgs": "./unsorted-names-list.txt"
+    }
+  }
+}

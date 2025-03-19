@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lachl\\OneDrive\\Desktop\\Code\\name-sorter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{061DC554-F105-4825-9702-48733A8A289A}|name-sorter\\name-sorter.csproj|c:\\users\\lachl\\onedrive\\desktop\\code\\name-sorter\\name-sorter\\namesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061DC554-F105-4825-9702-48733A8A289A}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\namesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061DC554-F105-4825-9702-48733A8A289A}|name-sorter\\name-sorter.csproj|c:\\users\\lachl\\onedrive\\desktop\\code\\name-sorter\\name-sorter\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061DC554-F105-4825-9702-48733A8A289A}|name-sorter\\name-sorter.csproj|solutionrelative:name-sorter\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NameSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Lachl\\OneDrive\\Desktop\\Code\\name-sorter\\name-sorter\\NameSorter.cs",
+              "RelativeDocumentMoniker": "name-sorter\\NameSorter.cs",
+              "ToolTip": "C:\\Users\\Lachl\\OneDrive\\Desktop\\Code\\name-sorter\\name-sorter\\NameSorter.cs",
+              "RelativeToolTip": "name-sorter\\NameSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:45:23.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Lachl\\OneDrive\\Desktop\\Code\\name-sorter\\name-sorter\\Main.cs",
+              "RelativeDocumentMoniker": "name-sorter\\Main.cs",
+              "ToolTip": "C:\\Users\\Lachl\\OneDrive\\Desktop\\Code\\name-sorter\\name-sorter\\Main.cs",
+              "RelativeToolTip": "name-sorter\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:45:20.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
